@@ -61,8 +61,5 @@
         "husky": "^4.2.3",
         "lint-staged": "^10.1.0",
         "prettier": "^2.0.2"
-    },
-    "optionalDependencies": {
-        "puppeteer": "^2.1.1"
     }
 }
